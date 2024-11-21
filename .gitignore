@@ -1,0 +1,25 @@
+# Database
+data/*.db
+*.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Deno specific
+.deno/
+
+# Docker specific
+.docker/
