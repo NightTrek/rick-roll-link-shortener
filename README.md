@@ -6,6 +6,7 @@
 This entire repository is written and testing using cline with claude 3.5 new as the model. It was written in about 5 minutes at a cost of $1.6756 USD including 3.3M tokens read and 29.4k token written. I have been experimenting with the limits of agent based coding and i wanted to demonstrate that it is possible to write a full fledged application in a few minutes. Full transcript is included in the project files.
 
 </div>
+## Overview
 
 A playful link shortener service that generates short URLs while secretly redirecting users to Rick Astley's "Never Gonna Give You Up". The service preserves the original link's Open Graph metadata for link previews, creating a perfect setup for friendly pranks.
 
